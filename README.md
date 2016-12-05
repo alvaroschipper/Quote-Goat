@@ -1,2 +1,2 @@
 # Quote-Goat
-Quote-based marketplace :D
+Quote-based economy :D
