@@ -1,2 +1,2 @@
-# quote-goat
+# Quote-Goat
 Quote-based marketplace :D
